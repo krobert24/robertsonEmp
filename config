@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:krobert24/robertsonEmp.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
